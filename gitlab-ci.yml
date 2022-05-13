@@ -1,0 +1,6 @@
+stages:
+  - qualidade
+  - build
+  - deploy
+  - notificacao
+
